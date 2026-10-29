@@ -1,0 +1,6 @@
+{
+  "name": "PromptGuard: AI Security & Jailbreak Shield Tester",
+  "description": "Interactive LLM Firewall sandbox and red-teaming benchmark to test system prompts against injection attacks, jailbreaks, and prompt leakage with automated auto-shield hardening.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
